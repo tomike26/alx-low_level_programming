@@ -10,3 +10,4 @@
  * Return: pointer to the new string created (Success), or NULL (Failed)
  */
 char *str_concat(char *s1, char *s2)
+
